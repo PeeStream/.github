@@ -16,12 +16,13 @@
 
 ---
 
-## Official Integrations
+## Official Integrations & Developer Tools
 
 | Integration | Description | Version | Status |
 | :--- | :--- | :--- | :--- |
 | [WordPress & DooPlay](https://github.com/PeeStream/peestream-wp-dooplay) | Native player embed, DooPlay repeatable fields, competitor video migrator, and AutoPublish V2 receiver. | `v1.0.5-beta.1` | **Beta Release** |
 | [DataLife Engine (DLE)](https://github.com/PeeStream/peestream-dle-addon) | Video player integration, xfields migration, and AutoPublish webhook receiver for DLE 13.x-17.x. | `v1.0.5-beta.1` | **Beta Release** |
+| [Universal AutoPublish Connector](https://github.com/PeeStream/peestream-autopublish-connector) | Standalone Python 3 webhook receiver and automation engine for custom CMS, Joomla, KVS, and headless frontends. | `v1.0.0` | **General Release** |
 | [WordPress Multi-Hoster](https://github.com/PeeStream/peestream-multihoster) | Multi-provider streaming failover, player link healing, and multi-source redundancy. | `v0.3.3` | **General Release** |
 
 ---
